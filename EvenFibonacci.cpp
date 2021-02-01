@@ -25,7 +25,7 @@ int main()
 		}
 	}
 
-	std::cout << "\nSum of the Even Sequence: " << sum << "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n";
+	std::cout << "\nSum of the Even Sequence: " << sum << "\n\n";
 }
 
 /*
